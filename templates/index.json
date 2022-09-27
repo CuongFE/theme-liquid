@@ -86,7 +86,7 @@
         "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et doloreLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor consecte<\/p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "all",
+        "collection": "our-products",
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": false,
