@@ -82,8 +82,8 @@
       "type": "featured-collection",
       "settings": {
         "title": "Featured products",
-        "heading_size": "h2",
-        "description": "",
+        "heading_size": "h1",
+        "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et doloreLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor consecte<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "all",
