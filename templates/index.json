@@ -111,13 +111,13 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "our-products"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "ring",
             "second_image": false
           }
         },
